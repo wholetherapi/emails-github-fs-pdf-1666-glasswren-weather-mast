@@ -1,0 +1,5 @@
+part,quantity,description
+U1,1,STM32G071 microcontroller
+U2,1,MAX3485 RS-485 transceiver
+J1-J6,6,RJ45 weatherproof socket
+C1-C10,10,100nF 0603 capacitor
